@@ -48,22 +48,6 @@ public class NewsController {
 				null,
 				String.class);
 				
-		//aaaaa
-		//afdstt
-		//ResponseEntity<String> responseEntity = new RestTemplate().
-
-	/*	String result = "";
-		try {
-			ObjectMapper objectMapper = new ObjectMapper();
-			JsonNode jsonNode = objectMapper.readTree(responseEntity.getBody());
-
-			JsonNode documentsNode = jsonNode.get("articles").get(0);
-			return documentsNode.toString();
-
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-		*/
 
 		return result;
 
