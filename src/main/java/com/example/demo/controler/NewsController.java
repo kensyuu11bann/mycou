@@ -48,6 +48,8 @@ public class NewsController {
 				null,
 				String.class);
 				
+		
+		//afdstt
 		//ResponseEntity<String> responseEntity = new RestTemplate().
 
 	/*	String result = "";
