@@ -48,7 +48,7 @@ public class NewsController {
 				null,
 				String.class);
 				
-		
+		//aaaaa
 		//afdstt
 		//ResponseEntity<String> responseEntity = new RestTemplate().
 
